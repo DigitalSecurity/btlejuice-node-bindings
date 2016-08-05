@@ -1,0 +1,24 @@
+{
+  "name": "btlejuice-bindings",
+  "version": "1.0.0",
+  "description": "BtleJuice MitM framework Node.js bindings",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^1.4.6",
+    "util": "^0.10.3",
+    "async": "^2.0.0-rc.6",
+    "socket.io-client": "^1.4.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bluetooth",
+    "smart",
+    "mitm",
+    "bindings"
+  ],
+  "author": "Damien Cauquil <damien.cauquil@digitalsecurity.fr>",
+  "license": "MIT"
+}
