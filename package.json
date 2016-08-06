@@ -1,6 +1,6 @@
 {
   "name": "btlejuice-bindings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BtleJuice MitM framework Node.js bindings",
   "main": "index.js",
   "dependencies": {
@@ -19,6 +19,10 @@
     "mitm",
     "bindings"
   ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/DigitalSecurity/btlejuice-node-bindings"
+  },
   "author": "Damien Cauquil <damien.cauquil@digitalsecurity.fr>",
   "license": "MIT"
 }
